@@ -17,7 +17,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-- Aayushi is dumb
 
 1. Numbered
 2. List
